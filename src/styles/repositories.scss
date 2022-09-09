@@ -1,31 +1,31 @@
 section.repository-list {
   margin: 40px;
-  text-align: center;
 
   h1 {
     margin-bottom: 16px;
     color: #017451;
+    text-align: center;
   }
 
   ul {
     list-style-type: none;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 
     li {
       background-color: #313131;
-      display: block;
-      width: 300px;
-      height: 200px;
+      width: 40vw;
+      height: 150px;
       padding: 20px;
       border-right: 4px solid #222222;
+      border-top: 1px solid transparent;
       transition: all .5s ease;
-
-      &+li {
-        margin-left: 10px;
-      }
+      margin-bottom: 12px;
+      margin-left: 12px;
 
       &:hover {
-        height: 220px;
+        border-color: #49f574;
       }
 
       strong {

@@ -11,4 +11,5 @@ desenvolvido na trilha Ignite da Rocketseat com o objetivo de listar os reposito
 
 ## Preview
 
-![Screenshot 2022-09-01 at 23-26-12 Github Ignite](https://user-images.githubusercontent.com/70963422/188046277-8ead3f16-c60e-44c5-8600-0eab9d63297a.png)
+
+![Screenshot 2022-09-08 at 23-35-04 Github Ignite](https://user-images.githubusercontent.com/70963422/189260595-c9d738e2-82f6-4021-96cb-31bc86647b3d.png)

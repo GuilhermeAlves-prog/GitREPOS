@@ -2,6 +2,7 @@
 desenvolvido na trilha Ignite da Rocketseat. essa página criada com react utiliza a biblioteca axios para fazer as requisições na api e retornar os dados
 dos repositorios que vão ser tratados e mostrados na tela.
 
+acesse: https://gittrepos.netlify.app/
 
 ## Tecnologias
 
